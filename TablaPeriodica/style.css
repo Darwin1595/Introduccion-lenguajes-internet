@@ -1,0 +1,60 @@
+.element{
+    border: 1px solid #0a0909;
+    padding: 4px;
+    width: 65px;
+    height: 65px;
+    
+}
+.element:hover{
+    transform: scale(1.1);
+}
+.element .number{
+    font-size: 20px;
+    text-align: left;
+}
+.element .atomic{
+    font-size: 10px;
+    text-align: left;
+}
+.element .symbol{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.element .name{
+    font-size: 12px;
+    text-align: center;
+}
+
+.element .confi{
+    font-size:10px;
+    text-align: center;
+}
+
+.nonmetal{
+    background-color: #625ed2ff;
+}
+.gas{
+    background-color: #29dde7;
+}
+.metalesal{
+    background-color: #df9266ee;
+}
+.alcalinoterreos{
+    background-color: #e3cab3;
+}
+.metaloides{
+    background-color: #83e67e;
+}
+.halogenos{
+    background-color: #f0c3da;
+}
+.otrosmetales{
+    background-color: #ffeb77ee;
+}
+.transicion{
+    background-color: #f8f4ca;
+}
+.elementos1{
+    background-color: #D3D3D3;
+}
